@@ -125,36 +125,30 @@ export default function Home() {
             <div data-w-id="3b514404-ce1f-db18-3fb3-df13075ca4dc" className="fda-faq-logo-main">
                 <div className="fda-faq-logo-main-wrapper">
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-one"><img src="/images/common/698316aecf20e0a251148e0c_kontrek-logo-vecsoi.svg" loading="lazy" alt="kontrek-logo-vecsoi" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-one"><img src="/images/common/client-logo-1.png" loading="lazy" alt="RamTeja Client Logo 1" className="fda-marquee-logo" /></div>
                     </div>
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-two"><img src="/images/common/698316aecf20e0a251148e1d_kontrek-logo-averen.svg" loading="lazy" alt="kontrek-logo-averen" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-two"><img src="/images/common/client-logo-2.png" loading="lazy" alt="RamTeja Client Logo 2" className="fda-marquee-logo" /></div>
                     </div>
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-three"><img src="/images/common/698316aecf20e0a251148e0b_kontrek-logo-ironframe.svg" loading="lazy" alt="kontrek-logo-ironframe" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-three"><img src="/images/common/client-logo-3.png" loading="lazy" alt="RamTeja Client Logo 3" className="fda-marquee-logo" /></div>
                     </div>
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-four"><img src="/images/common/698316aecf20e0a251148e1c_kontrek-logo-vortex.svg" loading="lazy" alt="kontrek-logo-vortex" className="fda-marquee-logo" /></div>
-                    </div>
-                    <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-five"><img src="/images/common/698316aecf20e0a251148e1b_kontrek-logo-zynoq.svg" loading="lazy" alt="kontrek-logo-zynoq" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-four"><img src="/images/common/client-logo-4.png" loading="lazy" alt="RamTeja Client Logo 4" className="fda-marquee-logo" /></div>
                     </div>
                 </div>
                 <div className="fda-faq-logo-main-wrapper">
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-one"><img src="/images/common/698316aecf20e0a251148e0c_kontrek-logo-vecsoi.svg" loading="lazy" alt="kontrek-logo-vecsoi" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-one"><img src="/images/common/client-logo-1.png" loading="lazy" alt="RamTeja Client Logo 1" className="fda-marquee-logo" /></div>
                     </div>
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-two"><img src="/images/common/698316aecf20e0a251148e1d_kontrek-logo-averen.svg" loading="lazy" alt="kontrek-logo-averen" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-two"><img src="/images/common/client-logo-2.png" loading="lazy" alt="RamTeja Client Logo 2" className="fda-marquee-logo" /></div>
                     </div>
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-three"><img src="/images/common/698316aecf20e0a251148e0b_kontrek-logo-ironframe.svg" loading="lazy" alt="kontrek-logo-ironframe" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-three"><img src="/images/common/client-logo-3.png" loading="lazy" alt="RamTeja Client Logo 3" className="fda-marquee-logo" /></div>
                     </div>
                     <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-four"><img src="/images/common/698316aecf20e0a251148e1c_kontrek-logo-vortex.svg" loading="lazy" alt="kontrek-logo-vortex" className="fda-marquee-logo" /></div>
-                    </div>
-                    <div className="fda-faq-logo-item-wrapper">
-                        <div className="fda-faq-logo-item fda-five"><img src="/images/common/698316aecf20e0a251148e1b_kontrek-logo-zynoq.svg" loading="lazy" alt="kontrek-logo-zynoq" className="fda-marquee-logo" /></div>
+                        <div className="fda-faq-logo-item fda-four"><img src="/images/common/client-logo-4.png" loading="lazy" alt="RamTeja Client Logo 4" className="fda-marquee-logo" /></div>
                     </div>
                 </div>
             </div>
