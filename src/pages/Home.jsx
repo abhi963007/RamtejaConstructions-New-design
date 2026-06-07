@@ -866,58 +866,7 @@ export default function Home() {
                 </div>
             </div>
         </section>
-        <section className="fda-testimonial">
-            <div className="w-layout-blockcontainer fda-container-medium w-container">
-                <div data-delay="4000" data-animation="slide" className="fda-slider-main w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
-                    <div className="w-slider-mask">
-                        <div className="w-slide">
-                            <div className="fda-testimonial-card">
-                                <div className="fda-testimonial-image"><img src="/images/common/698316aecf20e0a251148e67_kontrek-testimonial-sarah-carter.webp" loading="eager" alt="" /></div>
-                                <div className="w-layout-vflex fda-testimonial-card-details">
-                                    <div className="fda-text-color-black">—  Vikram Reddy, Managing Director, Ira Developers</div>
-                                    <div className="fda-textimonial-quote">
-                                        <h2 className="fda-gap-off fda-text-center">“ RamTeja delivered our 800-unit tower on time and within budget. Their on-site coordination and quality standards are unlike anything we've seen from a contractor at this scale. ”</h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="w-slide">
-                            <div className="fda-testimonial-card">
-                                <div className="fda-testimonial-image"><img src="/images/common/698316aecf20e0a251148f41_kontrek-testimonial-image-two.webp" loading="eager" alt="kontrek-testimonial-image-two" /></div>
-                                <div className="w-layout-vflex fda-testimonial-card-details">
-                                    <div className="fda-text-color-black">—  Suresh Nair, Project Head, Terminus Group</div>
-                                    <div className="fda-textimonial-quote">
-                                        <h2 className="fda-gap-off fda-text-center">“ From foundation to handover, the RamTeja team was precise, responsive, and professional. They didn't just build our project — they protected our investment. ”</h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="w-slide">
-                            <div className="fda-testimonial-card">
-                                <div className="fda-testimonial-image"><img src="/images/common/698316aecf20e0a251148f40_kontrek-testimonial-image-three.webp" loading="eager" alt="kontrek-testimonial-image-three" /></div>
-                                <div className="w-layout-vflex fda-testimonial-card-details">
-                                    <div className="fda-text-color-black">—  Priya Anand, VP Projects, e-infra</div>
-                                    <div className="fda-textimonial-quote">
-                                        <h2 className="fda-gap-off fda-text-center">“ We've partnered with RamTeja across three projects now. Their ability to manage scale without compromising on finish quality is what keeps us coming back. ”</h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="w-slider-arrow-left">
-                        <div className="fda-testimonial-icon-wrapper">
-                            <div data-w-id="1fa401af-3191-e121-d3af-c5f927602f9d" className="fda-testimonial-arrow-wrapper"><img src="/images/common/698316aecf20e0a251148e6c_kontrek-testimonial-arrow-black-previous.svg" loading="lazy" alt="" className="fda-testimonial-arrow" /></div>
-                        </div>
-                    </div>
-                    <div className="w-slider-arrow-right">
-                        <div className="fda-testimonial-icon-wrapper">
-                            <div data-w-id="1fa401af-3191-e121-d3af-c5f927602fa1" className="fda-testimonial-arrow-wrapper"><img src="/images/common/698316aecf20e0a251148e68_kontrek-testimonial-arrow-black.svg" loading="lazy" alt="" className="fda-testimonial-arrow" /></div>
-                        </div>
-                    </div>
-                    <div className="fda-display-none w-slider-nav w-round w-num"></div>
-                </div>
-            </div>
-        </section>
+
         <section className="fda-home-v1-project">
             <div className="w-layout-blockcontainer fda-container-medium w-container">
                 <div className="w-layout-hflex fda-home-v1-project-main">
