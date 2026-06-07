@@ -237,31 +237,6 @@ export default function Home() {
                                     <div className="fda-outside-overlay"></div>
                                 </div>
                             </div>
-                            <div className="w-layout-vflex fda-customer-satisfaction-box-main fda-tab-display-none">
-                                <div data-w-id="e33b751d-fddf-5050-0e0c-caf9b6b16ae6" className="fda-customer-satisfaction-box-main-wrapper fda-tab-display-none">
-                                    <div className="w-layout-hflex fda-customer-satisfaction-box fda-box-shadow fda-position-relative">
-                                        <div className="w-layout-hflex fda-customer-satisfaction-box-inner">
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698abb101aa4c669a366905d_Customer image small image.png" alt="" /></div>
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698abb10ea90a4a1586eb1eb_Customer image small image(1).png" alt="" /></div>
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148e87_kontrek-circle-image-one.svg" alt="" /></div>
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148f13_kontrek-circle-image-plus.webp" alt="" /></div>
-                                        </div>
-                                        <div className="fda-customer-satisfaction-box-text-wrapper">
-                                            <div className="fda-text-color-black fda-one">98% Customer satisfaction</div>
-                                            <div className="fda-text-color-black fda-two">98% Customer satisfaction</div>
-                                        </div>
-                                    </div>
-                                    <div className="w-layout-hflex fda-customer-satisfaction-box fda-margin-top fda-white-shadow">
-                                        <div className="w-layout-hflex fda-customer-satisfaction-box-inner fda-opacity-off">
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148ec1_kontrek-about-circle-image-three.svg" alt="" /></div>
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148ec0_kontrek-about-circle-image-four.svg" alt="" /></div>
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148e87_kontrek-circle-image-one.svg" alt="" /></div>
-                                            <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148f13_kontrek-circle-image-plus.webp" alt="" /></div>
-                                        </div>
-                                        <div className="fda-text-color-black fda-opacity-off">98% Customer satisfaction</div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div className="fda-home-v1-quality-right">

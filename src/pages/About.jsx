@@ -265,32 +265,6 @@ export default function About() {
                             <div style={{"opacity": 0}} className="fda-about-core-values-image-one"><img src="/images/about/698316aecf20e0a251148ebb_kontrek-about-core-values-image-two.webp" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px" srcset="/images/about/698316aecf20e0a251148ebb_kontrek-about-core-values-image-two-p-500.webp 500w, /images/about/698316aecf20e0a251148ebb_kontrek-about-core-values-image-two-p-800.webp 800w, /images/about/698316aecf20e0a251148ebb_kontrek-about-core-values-image-two-p-1080.webp 1080w, /images/about/698316aecf20e0a251148ebb_kontrek-about-core-values-image-two.webp 1350w" alt="kontrek-about-core-values-image-two" /></div>
                             <div style={{"opacity": 0}} className="fda-about-core-values-image-two"><img src="/images/about/698316aecf20e0a251148ebc_kontrek-about-core-values-image-one.webp" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px" srcset="/images/about/698316aecf20e0a251148ebc_kontrek-about-core-values-image-one-p-500.webp 500w, /images/about/698316aecf20e0a251148ebc_kontrek-about-core-values-image-one-p-800.webp 800w, /images/about/698316aecf20e0a251148ebc_kontrek-about-core-values-image-one-p-1080.webp 1080w, /images/about/698316aecf20e0a251148ebc_kontrek-about-core-values-image-one.webp 1350w" alt="kontrek-about-core-values-image-one" /></div>
                         </div>
-                        <div className="fda-about-core-values-curve-arrow fda-tab-display-none"><img src="/images/common/698316aecf20e0a251148e1f_kontrek-contact-yellow-curved-arrow.svg" loading="lazy" alt="" /></div>
-                        <div className="fda-home-v3-service-customer-satisfaction-wrapper">
-                            <div data-w-id="e33b751d-fddf-5050-0e0c-caf9b6b16ae6" className="fda-customer-satisfaction-box-main-wrapper fda-tab-display-none">
-                                <div className="w-layout-hflex fda-customer-satisfaction-box fda-box-shadow fda-position-relative">
-                                    <div className="w-layout-hflex fda-customer-satisfaction-box-inner">
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698abb101aa4c669a366905d_Customer image small image.png" alt="" /></div>
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698abb10ea90a4a1586eb1eb_Customer image small image(1).png" alt="" /></div>
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148e87_kontrek-circle-image-one.svg" alt="" /></div>
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148f13_kontrek-circle-image-plus.webp" alt="" /></div>
-                                    </div>
-                                    <div className="fda-customer-satisfaction-box-text-wrapper">
-                                        <div className="fda-text-color-black fda-one">98% Customer satisfaction</div>
-                                        <div className="fda-text-color-black fda-two">98% Customer satisfaction</div>
-                                    </div>
-                                </div>
-                                <div className="w-layout-hflex fda-customer-satisfaction-box fda-margin-top fda-white-shadow">
-                                    <div className="w-layout-hflex fda-customer-satisfaction-box-inner fda-opacity-off">
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148ec1_kontrek-about-circle-image-three.svg" alt="" /></div>
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148ec0_kontrek-about-circle-image-four.svg" alt="" /></div>
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148e87_kontrek-circle-image-one.svg" alt="" /></div>
-                                        <div className="fda-customer-satisfaction-box-image"><img loading="lazy" src="/images/common/698316aecf20e0a251148f13_kontrek-circle-image-plus.webp" alt="" /></div>
-                                    </div>
-                                    <div className="fda-text-color-black fda-opacity-off">98% Customer satisfaction</div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
