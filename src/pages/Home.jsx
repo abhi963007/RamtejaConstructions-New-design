@@ -34,25 +34,21 @@ export default function Home() {
                 </div>
             </section>
             <div className="fda-home-v1-hero-overlay"></div>
-            <div data-delay="4000" data-animation="cross" className="fda-home-v1-hero-image-wrapper w-slider" data-autoplay="true" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="1200" data-infinite="false">
-                <div className="fda-her-v1-mask w-slider-mask">
-                    <div data-w-id="9dec99df-4815-d38e-9df9-f1b8032afcc0" className="fda-her-v1-slider-item w-slide">
-                        <div className="fda-her-v1-slider-item-inner"><img src="/images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image.webp" sizes="(max-width: 1919px) 100vw, 1920px" width="1920" style={{"WebkitTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} alt="kontrek-home-one-hero-banner-main-image" srcset="/images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image-p-500.webp 500w, /images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image-p-800.webp 800w, /images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image-p-1080.webp 1080w, /images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image-p-1600.webp 1600w, /images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image-p-2000.webp 2000w, /images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image-p-2600.webp 2600w, /images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image-p-3200.webp 3200w, /images/home/698316aecf20e0a251148f3c_kontrek-home-one-hero-banner-main-image.webp 3840w" className="fda-slider-image-wrapper" /></div>
-                    </div>
-                    <div data-w-id="9dec99df-4815-d38e-9df9-f1b8032afcc1" className="fda-her-v1-slider-item w-slide">
-                        <div className="fda-her-v1-slider-item-inner"><img src="/images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two.webp" sizes="(max-width: 1919px) 100vw, 1920px" width="1920" style={{"WebkitTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} alt="kontrekome-one-hero-banner-image-two" srcset="/images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two-p-500.webp 500w, /images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two-p-800.webp 800w, /images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two-p-1080.webp 1080w, /images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two-p-1600.webp 1600w, /images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two-p-2000.webp 2000w, /images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two-p-2600.webp 2600w, /images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two-p-3200.webp 3200w, /images/home/698316aecf20e0a251148f43_kontrekome-one-hero-banner-image-two.webp 3840w" className="fda-slider-image-wrapper" /></div>
-                    </div>
-                    <div data-w-id="975b89d8-c94d-b2e7-b854-bb5eae5fd775" className="fda-her-v1-slider-item w-slide">
-                        <div className="fda-her-v1-slider-item-inner"><img src="/images/home/698316aecf20e0a251148f42_kontrekome-one-hero-banner-image-three.webp" alt="kontrekome-one-hero-banner-image-three" style={{"WebkitTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} className="fda-slider-image-wrapper" /></div>
-                    </div>
-                </div>
-                <div className="fda-display-none w-slider-arrow-left">
-                    <div className="w-icon-slider-left"></div>
-                </div>
-                <div className="fda-display-none w-slider-arrow-right">
-                    <div className="w-icon-slider-right"></div>
-                </div>
-                <div className="fda-slide-nav w-slider-nav"></div>
+            <div className="fda-home-v1-hero-image-wrapper" style={{position: 'absolute', inset: '0%', zIndex: 1}}>
+                <video
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    style={{
+                        width: '100%',
+                        height: '100%',
+                        objectFit: 'cover'
+                    }}
+                >
+                    <source src="/videos/hero.mp4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                </video>
             </div>
             <div data-wf--fda-line-animation-wrapper--variant="zindex-change" data-w-id="f799fb18-a018-8474-6cc4-3869705a46d7" className="fda-line-animation-main w-variant-222beff0-c1af-cbd9-d2ba-fdf7df9cbafe fda-landscape-display-none">
                 <div className="w-layout-hflex fda-line-animation-wrapper-main">
