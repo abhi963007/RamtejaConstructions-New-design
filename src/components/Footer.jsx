@@ -60,47 +60,6 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className="fda-footer-middle-line"></div>
-      <div className="w-layout-blockcontainer fda-container-medium w-container">
-        <div className="fda-footer-middle">
-          <div className="fda-footer-middle-left fda-overflow-hidden">
-            <div data-w-id="a1cce851-072e-f5d4-bf45-f7f2c77dd31f" className="fda-footer-location-wrapper">
-              <div className="fda-location-icon-wrapper">
-                <img src="/images/common/698316aecf20e0a251148deb_kontrek-footer-location-icon.svg" loading="lazy" alt="" />
-              </div>
-              <div>
-                <div className="fda-text-style-h6 fda-text-color-white">123 Riverbend, California 94025, USA</div>
-              </div>
-            </div>
-          </div>
-          <div className="fda-footer-middle-right">
-            <div className="fda-footer-contact-details">
-              <div className="fda-overflow-hidden">
-                <div data-w-id="a1cce851-072e-f5d4-bf45-f7f2c77dd326" className="fda-text-style-h6 fda-text-color-white">
-                  Contact us - <a href="tel:8884567890" className="fda-text-color-white fda-hover-effect">(888) 456 7890</a>
-                </div>
-              </div>
-              <div className="fda-overflow-hidden">
-                <div data-w-id="a1cce851-072e-f5d4-bf45-f7f2c77dd32a" className="fda-text-style-h6 fda-text-color-white">
-                  Email -<a href="mailto:info@example.com" className="fda-text-color-white fda-hover-effect"> info@example.com</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="fda-footer-bottom">
-          <div text="big-text" className="fda-expertise-text-wrapper">
-            <div className="fda-medium-text">RamTeja Constructions</div>
-          </div>
-          <div className="fda-footer-bottom-right">
-            <div className="fda-footer-bottom-right-inner fda-overflow-hidden"></div>
-            <div className="w-layout-hflex fda-last-wrapper">
-              <a href="#" className="fda-text-style-h6 fda-text-color-white fda-hover-golden">License</a>
-              <div className="fda-text-style-h6 fda-text-color-white">/</div>
-              <a href="#" className="fda-text-style-h6 fda-text-color-white fda-hover-golden">Changelog</a>
-            </div>
-          </div>
-        </div>
       </div>
     </footer>
   );
