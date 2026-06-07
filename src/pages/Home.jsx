@@ -13,26 +13,14 @@ export default function Home() {
                     <div className="w-layout-vflex fda-home-v1-hero-content-main">
                         <div className="w-layout-hflex fda-home-v1-hero-content-top">
                             <div className="fda-home-v1-hero-content-left">
-                                <div data-w-id="eaeaad84-c5ca-b25c-1566-bcc3de99a8b7" style={{opacity:0}} className="fda-text-color-white fda-gap-small fda-mobile-text-center">India's Fastest Growing Integrated Development Partner</div><a data-wf--fda-circle-button--variant="version-white" data-w-id="7ba25edb-98b1-6093-62f0-b19333c30345" href="#home-one-safety" className="fda-service-big-circle-arrow w-inline-block">
-                                    <div className="fda-big-circle-arrow-icon"><img src="/images/common/698316aecf20e0a251148e5f_kontrek-service-hero-down-arrow.svg" loading="lazy" alt="" /></div>
-                                </a>
+                                <div data-w-id="eaeaad84-c5ca-b25c-1566-bcc3de99a8b7" style={{opacity:0}} className="fda-text-color-white fda-gap-small fda-mobile-text-center">India's Fastest Growing Integrated Development Partner</div>
                             </div>
                             <div className="fda-home-v1-hero-content-right">
                                 <h1 data-w-id="e0fed5d8-2593-79ad-cc70-1b5d400567b1" style={{opacity:0}} className="fda-gap-off fda-text-color-white fda-mobile-text-center"><span className="fda-hero-banner-yellow-icon">        </span>We Don't Just Build Structures. We Build Cities.</h1>
                             </div>
                         </div>
                         <div className="w-layout-hflex fda-home-v1-hero-content-bottom">
-                            <div className="w-layout-vflex fda-industrial-small-box-wrapper fda-mobile-display-none">
-                                <div style={{backgroundColor: "rgba(243,180,30,0)"}} className="fda-industrial-small-box fda-one">
-                                    <div style={{color: "rgb(255,255,255)"}} className="fda-text-style-h6 fda-text-color-white fda-one">01</div>
-                                </div>
-                                <div style={{backgroundColor: "rgba(243,180,30,0)"}} className="fda-industrial-small-box fda-two">
-                                    <div style={{color: "rgb(255,255,255)"}} className="fda-text-style-h6 fda-text-color-white fda-two">02</div>
-                                </div>
-                                <div style={{backgroundColor: "rgba(243,180,30,0)"}} className="fda-industrial-small-box fda-three">
-                                    <div style={{color: "rgb(255,255,255)"}} className="fda-text-style-h6 fda-text-color-white fda-three">03<br /></div>
-                                </div>
-                            </div>
+                            <div className="w-layout-vflex fda-industrial-small-box-wrapper fda-mobile-display-none"></div>
                             <div className="fda-home-v1-hero-content-bottom-right">
                                 <div className="w-layout-hflex fda-industrial-subtext-wrapper fda-landscape-display-none">
                                     <div className="fda-text-style-h6 fda-text-color-white">Experience that builds trust</div>
