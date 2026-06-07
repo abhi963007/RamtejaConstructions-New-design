@@ -13,12 +13,12 @@ export default function Home() {
                     <div className="w-layout-vflex fda-home-v1-hero-content-main">
                         <div className="w-layout-hflex fda-home-v1-hero-content-top">
                             <div className="fda-home-v1-hero-content-left">
-                                <div data-w-id="eaeaad84-c5ca-b25c-1566-bcc3de99a8b7" style={{opacity:0}} className="fda-text-color-white fda-gap-small fda-mobile-text-center">We provide strategic guidance that helps businesses overcome challenges, improve performance.</div><a data-wf--fda-circle-button--variant="version-white" data-w-id="7ba25edb-98b1-6093-62f0-b19333c30345" href="#home-one-safety" className="fda-service-big-circle-arrow w-inline-block">
+                                <div data-w-id="eaeaad84-c5ca-b25c-1566-bcc3de99a8b7" style={{opacity:0}} className="fda-text-color-white fda-gap-small fda-mobile-text-center">India's Fastest Growing Integrated Development Partner</div><a data-wf--fda-circle-button--variant="version-white" data-w-id="7ba25edb-98b1-6093-62f0-b19333c30345" href="#home-one-safety" className="fda-service-big-circle-arrow w-inline-block">
                                     <div className="fda-big-circle-arrow-icon"><img src="/images/common/698316aecf20e0a251148e5f_kontrek-service-hero-down-arrow.svg" loading="lazy" alt="" /></div>
                                 </a>
                             </div>
                             <div className="fda-home-v1-hero-content-right">
-                                <h1 data-w-id="e0fed5d8-2593-79ad-cc70-1b5d400567b1" style={{opacity:0}} className="fda-gap-off fda-text-color-white fda-mobile-text-center"><span className="fda-hero-banner-yellow-icon">        </span>Engineering Strength into Every Project We Build</h1>
+                                <h1 data-w-id="e0fed5d8-2593-79ad-cc70-1b5d400567b1" style={{opacity:0}} className="fda-gap-off fda-text-color-white fda-mobile-text-center"><span className="fda-hero-banner-yellow-icon">        </span>We Don't Just Build Structures. We Build Cities.</h1>
                             </div>
                         </div>
                         <div className="w-layout-hflex fda-home-v1-hero-content-bottom">
@@ -93,11 +93,11 @@ export default function Home() {
                 <div className="w-layout-vflex fda-home-v1-strength-top fda-gap-medium">
                     <div data-w-id="bab299c3-456c-0ad6-f78a-2b066bc03c8e" style={{opacity:0}} className="fda-sub-heading-wrapper-inner fda-gap-tiny">
                         <div className="fda-sub-heading-icon"><img src="/images/common/698316aecf20e0a251148e09_kontrek-sub-heading-left-icon-white.svg" loading="lazy" alt="" /></div>
-                        <div className="fda-sub-text fda-text-color-white">Safety & Quality</div>
+                        <div className="fda-sub-text fda-text-color-white">Our Commitment</div>
                         <div className="fda-sub-heading-icon"><img src="/images/common/698316aecf20e0a251148f0d_kontrek-sub-heading-right-arrow.svg" loading="lazy" alt="" /></div>
                     </div>
                     <div className="fda-home-v1-safety-heading fda-gap-tiny fda-overflow-hidden">
-                        <h2 data-w-id="bab299c3-456c-0ad6-f78a-2b066bc03c96" style={{opacity:0}} className="fda-gap-off fda-text-align-center fda-text-color-white">Quality Construction Services You Can Trust Every Step of the Way</h2>
+                        <h2 data-w-id="bab299c3-456c-0ad6-f78a-2b066bc03c96" style={{opacity:0}} className="fda-gap-off fda-text-align-center fda-text-color-white">Built on Precision. Delivered with Discipline. Zero Compromises.</h2>
                     </div><a data-wf--fda-circle-button--variant="version-dark-grey" data-w-id="7ba25edb-98b1-6093-62f0-b19333c30345" href="#home-one-quality" className="fda-service-big-circle-arrow w-variant-f3b7eea4-0ea1-23c6-21a3-95864aed7a42 w-inline-block">
                         <div className="fda-big-circle-arrow-icon"><img src="/images/home/698316aecf20e0a251148ee5_kontrek-home-two-white-arrow.svg" loading="lazy" alt="" /></div>
                     </a>
@@ -106,25 +106,25 @@ export default function Home() {
                     <div data-w-id="aa4dc389-94e8-8a4f-f502-1f8a98343b3e" style={{opacity:0}} className="fda-home-v1-safety-item">
                         <div className="w-layout-vflex fda-home-v1-safety-item-top">
                             <div className="fda-text-color-white">01</div>
-                            <div className="fda-text-style-h3 fda-text-color-white fda-text-align-center">OSHA safety compliance</div>
+                            <div className="fda-text-style-h3 fda-text-color-white fda-text-align-center">On-Time Delivery</div>
                         </div>
-                        <div className="fda-text-color-white fda-text-align-center">We strictly follow OSHA safety standards to ensure secure, compliant, and accident-free job sites.</div>
+                        <div className="fda-text-color-white fda-text-align-center">Every project milestone is tracked, managed, and met. We treat your deadline as non-negotiable.</div>
                     </div>
                     <div className="fda-home-v1-safety-item-line fda-tab-display-none"></div>
                     <div data-w-id="55e5a18c-1738-e8ae-40c8-10c4217c01ba" style={{opacity:0}} className="fda-home-v1-safety-item">
                         <div className="w-layout-vflex fda-home-v1-safety-item-top">
                             <div className="fda-text-color-white">02</div>
-                            <div className="fda-text-style-h3 fda-text-color-white fda-text-align-center">Licensed & insured</div>
+                            <div className="fda-text-style-h3 fda-text-color-white fda-text-align-center">Zero Defect Standards</div>
                         </div>
-                        <div className="fda-text-color-white fda-text-align-center">Fully licensed and insured, ensuring safety, compliance, and complete peace of mind.</div>
+                        <div className="fda-text-color-white fda-text-align-center">Multi-stage quality audits at every phase — structural, MEP, finishing — before handover.</div>
                     </div>
                     <div className="fda-home-v1-safety-item-line fda-tab-display-none"></div>
                     <div data-w-id="dfdf88c1-6376-6c93-f44c-73c8a7f7a5b7" style={{opacity:0}} className="fda-home-v1-safety-item">
                         <div className="w-layout-vflex fda-home-v1-safety-item-top">
                             <div className="fda-text-color-white">03</div>
-                            <div className="fda-text-style-h3 fda-text-color-white fda-text-align-center">Routine quality checks</div>
+                            <div className="fda-text-style-h3 fda-text-color-white fda-text-align-center">Site Safety First</div>
                         </div>
-                        <div className="fda-text-color-white fda-text-align-center">Regular quality inspections ensure every project meets safety, durability, and industry standards.</div>
+                        <div className="fda-text-color-white fda-text-align-center">ISO-compliant safety protocols across all sites. 1,000+ engineers trained to our standards.</div>
                     </div>
                 </div>
             </div>
@@ -177,20 +177,20 @@ export default function Home() {
                 <div className="w-layout-vflex fda-home-v1-strength-top fda-gap-small">
                     <div data-w-id="c3133354-61e9-dcef-cf05-732a1988591e" style={{opacity:0}} className="fda-sub-heading-wrapper-inner fda-gap-tiny">
                         <div className="fda-sub-heading-icon"><img src="/images/common/698316aecf20e0a251148dff_kontrek-sub-heading-left-icon.svg" loading="lazy" alt="" /></div>
-                        <div className="fda-sub-text">Our strengths</div>
+                        <div className="fda-sub-text">Why RamTeja</div>
                         <div className="fda-sub-heading-icon"><img src="/images/common/698316aecf20e0a251148e00_kontrek-sub-heading-right-icon.svg" loading="lazy" alt="" /></div>
                     </div>
                     <div className="fda-home-v1-strength-heading fda-overflow-hidden">
-                        <h2 data-w-id="cf650430-6aa1-3a4f-b82a-f0a8ed13de68" style={{opacity:0}} className="fda-gap-off fda-text-align-center">Expert construction services that bring plans to life</h2>
+                        <h2 data-w-id="cf650430-6aa1-3a4f-b82a-f0a8ed13de68" style={{opacity:0}} className="fda-gap-off fda-text-align-center">Two Decades of Large-Scale Execution. One Accountable Partner.</h2>
                     </div>
                 </div>
                 <div className="w-layout-hflex fda-home-v1-strength-main">
                     <div id="w-node-_14e508dd-4b58-80d3-fe88-58efcdec92e7-51148da1" data-w-id="14e508dd-4b58-80d3-fe88-58efcdec92e7" style={{opacity:0}} className="w-layout-vflex fda-home-v1-strength-item">
                         <div className="fda-about-strength-item-icon"><img src="/images/common/698316aecf20e0a251148e61_kontrek-service-emergency-icon.svg" loading="lazy" alt="" /></div>
                         <div className="fda-about-strength-item-deatils fda-change-align">
-                            <div className="fda-text-style-h3 fda-text-align-center">Emergency services</div>
+                            <div className="fda-text-style-h3 fda-text-align-center">15M+ Sq. Ft. Delivered</div>
                             <div className="fda-about-strength-text-two">
-                                <div className="fda-text-align-center">Emergency services designed to protect lives, property, and structural integrity.</div>
+                                <div className="fda-text-align-center">From high-rise towers to integrated townships — delivered across Telangana and beyond.</div>
                             </div>
                         </div>
                     </div>
@@ -198,9 +198,9 @@ export default function Home() {
                     <div data-w-id="6c2352b5-b8bc-cd53-c0d9-775b0c269920" style={{opacity:0}} className="w-layout-vflex fda-home-v1-strength-item">
                         <div className="fda-about-strength-item-icon"><img src="/images/common/698316aecf20e0a251148e60_kontrek-service-secure-icon.svg" loading="lazy" alt="" /></div>
                         <div className="fda-about-strength-item-deatils fda-change-align">
-                            <div className="fda-text-style-h3">100% secure</div>
+                            <div className="fda-text-style-h3">₹2,600 Cr EPC Mandate</div>
                             <div className="fda-about-strength-text-two">
-                                <div className="fda-text-align-center">We ensure 100% secure construction practices with strict safety standards.</div>
+                                <div className="fda-text-align-center">A track record that speaks to the trust India's top developers place in our delivery model.</div>
                             </div>
                         </div>
                     </div>
@@ -208,9 +208,9 @@ export default function Home() {
                     <div data-w-id="5d4718c6-488c-94fa-5f52-dc826a063f72" style={{opacity:0}} className="w-layout-vflex fda-home-v1-strength-item">
                         <div className="fda-about-strength-item-icon"><img src="/images/common/698316aecf20e0a251148e62_kontrek-service-awards-won-icon.svg" loading="lazy" alt="" /></div>
                         <div className="fda-about-strength-item-deatils fda-change-align">
-                            <div className="fda-text-style-h3">Awards won</div>
+                            <div className="fda-text-style-h3">10,000+ Workforce</div>
                             <div className="fda-about-strength-text-two">
-                                <div className="fda-text-align-center">Award-winning construction services trusted by clients and industry leaders.</div>
+                                <div className="fda-text-align-center">A skilled, trained, and safety-certified workforce scaling with every project we take on.</div>
                             </div>
                         </div>
                     </div>
@@ -224,10 +224,10 @@ export default function Home() {
                         <div>
                             <div data-w-id="b8161a92-b3e1-237c-1fdc-6839467ebfd9" style={{opacity:0}} className="fda-sub-heading-wrapper-inner fda-change-align fda-gap-tiny">
                                 <div className="fda-sub-heading-icon"><img src="/images/common/698316aecf20e0a251148dff_kontrek-sub-heading-left-icon.svg" loading="lazy" alt="" /></div>
-                                <div className="fda-sub-text">Quality Standards</div>
+                                <div className="fda-sub-text">What We Deliver</div>
                             </div>
                             <div className="fda-overflow-hidden">
-                                <h2 data-w-id="4f6052b8-a7f5-574f-f17e-039fea2d0cfd" style={{opacity:0}} className="fda-gap-off">Turning Innovative Designs into Durable, High-Quality Structures</h2>
+                                <h2 data-w-id="4f6052b8-a7f5-574f-f17e-039fea2d0cfd" style={{opacity:0}} className="fda-gap-off">End-to-End Delivery. Every Format. Every Scale.</h2>
                             </div>
                         </div>
                         <div data-w-id="9ca6a5e4-c078-61c4-5634-b25900769c95" className="fda-quality-standards-image fda-position-relative">
@@ -278,22 +278,22 @@ export default function Home() {
                         </div>
                         <div className="fda-home-v2-quality-item-wrapper fda-gap">
                             <div data-w-id="294b7381-a7ad-7f95-90bd-645c7a0fbba5" style={{opacity:0}} className="fda-home-v2-quality-item fda-one">
-                                <div style={{"color": "rgb(108,108,108)", "WebkitTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} className="fda-text-style-h5 fda-change-font-color fda-one">Structural reinforcement</div>
+                                <div style={{"color": "rgb(108,108,108)", "WebkitTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} className="fda-text-style-h5 fda-change-font-color fda-one">Residential Construction</div>
                                 <div style={{"height": "0%"}} className="fda-home-v2-quality-item-overlay fda-one"></div>
                                 <div className="fda-home-v1-quality-arrow"><img src="/images/home/698316aecf20e0a251148efb_kontrek-home-one-grey-arrow.svg" loading="lazy" style={{"opacity": 1}} alt="" className="fda-grey-icon fda-icon-one" /><img src="/images/home/698316aecf20e0a251148efd_kontrek-home-one-white-arrow.svg" loading="lazy" style={{"WebkitTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "MozTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "MsTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "transform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "opacity": 0}} alt="" className="fda-white-icon fda-icon-one" /></div>
                             </div>
                             <div data-w-id="294b7381-a7ad-7f95-90bd-645c7a0fbbab" style={{opacity:0}} className="fda-home-v2-quality-item fda-two">
-                                <div style={{"color": "rgb(108,108,108)", "WebkitTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} className="fda-text-style-h5 fda-change-font-color fda-two">Facade restoration</div>
+                                <div style={{"color": "rgb(108,108,108)", "WebkitTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} className="fda-text-style-h5 fda-change-font-color fda-two">Commercial Buildings</div>
                                 <div style={{"height": "0%"}} className="fda-home-v2-quality-item-overlay fda-two"></div>
                                 <div className="fda-home-v1-quality-arrow"><img src="/images/home/698316aecf20e0a251148efb_kontrek-home-one-grey-arrow.svg" loading="lazy" style={{"opacity": 1}} alt="" className="fda-grey-icon fda-icon-two" /><img src="/images/home/698316aecf20e0a251148efd_kontrek-home-one-white-arrow.svg" loading="lazy" style={{"WebkitTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "MozTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "MsTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "transform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "opacity": 0}} alt="" className="fda-white-icon fda-icon-two" /></div>
                             </div>
                             <div data-w-id="294b7381-a7ad-7f95-90bd-645c7a0fbbb1" style={{opacity:0}} className="fda-home-v2-quality-item fda-three">
-                                <div style={{"color": "rgb(255,255,255)", "WebkitTransform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} className="fda-text-style-h5 fda-change-font-color fda-three">Plumbing system overhaul</div>
+                                <div style={{"color": "rgb(255,255,255)", "WebkitTransform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0.9375rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"}} className="fda-text-style-h5 fda-change-font-color fda-three">Turnkey EPC</div>
                                 <div style={{"height": "100%"}} className="fda-home-v2-quality-item-overlay fda-three"></div>
                                 <div className="fda-home-v1-quality-arrow"><img src="/images/home/698316aecf20e0a251148efb_kontrek-home-one-grey-arrow.svg" loading="lazy" style={{opacity:0}} alt="" className="fda-grey-icon fda-icon-three" /><img src="/images/home/698316aecf20e0a251148efd_kontrek-home-one-white-arrow.svg" loading="lazy" style={{"WebkitTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-45deg) skew(0, 0)", "MozTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-45deg) skew(0, 0)", "MsTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-45deg) skew(0, 0)", "transform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-45deg) skew(0, 0)", "opacity": 1}} alt="" className="fda-white-icon fda-icon-three" /></div>
                             </div>
                             <div data-w-id="294b7381-a7ad-7f95-90bd-645c7a0fbbb7" style={{opacity:0}} className="fda-home-v2-quality-item fda-four">
-                                <div style={{"WebkitTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "color": "rgb(108,108,108)"}} className="fda-text-style-h5 fda-change-font-color fda-four">HVAC Installation</div>
+                                <div style={{"WebkitTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MozTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "MsTransform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "transform": "translate3d(0rem, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)", "color": "rgb(108,108,108)"}} className="fda-text-style-h5 fda-change-font-color fda-four">Institutional Projects</div>
                                 <div style={{"height": "0%"}} className="fda-home-v2-quality-item-overlay fda-four"></div>
                                 <div className="fda-home-v1-quality-arrow"><img src="/images/home/698316aecf20e0a251148efb_kontrek-home-one-grey-arrow.svg" loading="lazy" style={{"opacity": 1}} alt="" className="fda-grey-icon fda-icon-four" /><img src="/images/home/698316aecf20e0a251148efd_kontrek-home-one-white-arrow.svg" loading="lazy" style={{"opacity": 0, "WebkitTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "MozTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "MsTransform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)", "transform": "translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)"}} alt="" className="fda-white-icon fda-icon-four" /></div>
                             </div>
@@ -537,8 +537,8 @@ export default function Home() {
                             <div className="fda-about-support-box-image-two"><img src="/images/common/698ab8b1f1774cb9926ddd42_User image one.png" loading="lazy" alt="" /></div>
                         </div>
                         <div>
-                            <div className="fda-text-color-white">Need some help ?</div>
-                            <div className="fda-text-color-white">We’re here to support you with quick, friendly guidance.</div>
+                            <div className="fda-text-color-white">Have a project in mind?</div>
+                            <div className="fda-text-color-white">Let's talk timelines, scale, and what it takes to deliver right.</div>
                         </div>
                     </div><Link to="/contact" className="fda-support-link w-inline-block">
                         <div><img src="/images/common/698316aecf20e0a251148e23_kontrek-blog-right-arrow.svg" loading="lazy" alt="kontrek-blog-right-arrow" /></div>
@@ -640,10 +640,10 @@ export default function Home() {
                             <div className="fda-home-v1-services-heading">
                                 <div data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385617" style={{opacity:0}} className="fda-sub-heading-wrapper-inner fda-change-align fda-gap-tiny">
                                     <div className="fda-sub-heading-icon"><img src="/images/common/698316aecf20e0a251148dff_kontrek-sub-heading-left-icon.svg" loading="lazy" alt="" /></div>
-                                    <div className="fda-sub-text">Construction Services</div>
+                                    <div className="fda-sub-text">Our Services</div>
                                 </div>
                                 <div className="fda-overflow-hidden">
-                                    <h2 data-w-id="c4db6d6b-365d-bab7-f8bb-e0c37438561d" style={{opacity:0}} className="fda-gap-off">Building Smarter Spaces with Modern Construction Methods</h2>
+                                    <h2 data-w-id="c4db6d6b-365d-bab7-f8bb-e0c37438561d" style={{opacity:0}} className="fda-gap-off">From Foundation to Handover — We Own Every Step.</h2>
                                 </div>
                             </div>
                             <div className="fda-home-v1-services-wrapper">
@@ -654,13 +654,13 @@ export default function Home() {
                                             <div data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385621" className="fda-home-v1-services-item">
                                                 <div className="fda-home-v1-services-item-top-main fda-one">
                                                     <div className="w-layout-hflex fda-home-v1-services-item-top">
-                                                        <div className="fda-text-style-h4">Design & Build Services</div><Link data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385626" to="/service-details" className="fda-home-v1-services-arrow-wrapper fda-one w-inline-block">
+                                                        <div className="fda-text-style-h4">Residential High-Rise</div><Link data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385626" to="/service-details" className="fda-home-v1-services-arrow-wrapper fda-one w-inline-block">
                                                             <div className="fda-services-black-arrow"><img src="/images/home/698316aecf20e0a251148f08_kontrek-home-one-services-black-arrow-link.svg" loading="lazy" alt="kontrek-home-one-services-black-arrow-link" /></div>
                                                         </Link>
                                                     </div>
                                                     <div data-w-id="e4608bef-ae1a-0970-f3be-63616fbdaf5a" className="w-layout-hflex fda-home-v1-services-item-details fda-one">
                                                         <div className="fda-home-v1-services-item-text">
-                                                            <div>We deliver integrated design and build services ensuring quality planning, cost control, safety, and timely delivery.</div>
+                                                            <div>Structural execution, formwork systems, MEP coordination, and safety compliance for large-scale residential towers and townships.</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -675,14 +675,14 @@ export default function Home() {
                                             <div data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385642" className="fda-home-v1-services-item">
                                                 <div className="fda-home-v1-services-item-top-main fda-two">
                                                     <div className="w-layout-hflex fda-home-v1-services-item-top fda-two">
-                                                        <div className="fda-text-style-h4">Site Preparation & Excavation</div><Link data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385647" to="/service-details" className="fda-home-v1-services-arrow-wrapper fda-two w-inline-block">
+                                                        <div className="fda-text-style-h4">Commercial Complexes</div><Link data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385647" to="/service-details" className="fda-home-v1-services-arrow-wrapper fda-two w-inline-block">
                                                             <div className="fda-services-black-arrow"><img src="/images/home/698316aecf20e0a251148f08_kontrek-home-one-services-black-arrow-link.svg" loading="lazy" alt="kontrek-home-one-services-black-arrow-link" /></div>
                                                         </Link>
                                                     </div>
                                                 </div>
                                                 <div className="w-layout-hflex fda-home-v1-services-item-details fda-two">
                                                     <div className="fda-home-v1-services-item-text">
-                                                        <div>We deliver reliable construction solutions with quality craftsmanship, safety standards, and on-time completion.</div>
+                                                        <div>From groundbreaking to facade finishing — office towers, retail developments, and mixed-use buildings delivered on schedule.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -696,13 +696,13 @@ export default function Home() {
                                             <div data-w-id="c4db6d6b-365d-bab7-f8bb-e0c374385665" className="fda-home-v1-services-item">
                                                 <div className="fda-home-v1-services-item-top-main fda-three">
                                                     <div className="w-layout-hflex fda-home-v1-services-item-top">
-                                                        <div className="fda-text-style-h4">Facade restoration</div><Link data-w-id="c4db6d6b-365d-bab7-f8bb-e0c37438566a" to="/service-details" className="fda-home-v1-services-arrow-wrapper fda-three w-inline-block">
+                                                        <div className="fda-text-style-h4">Township Development</div><Link data-w-id="c4db6d6b-365d-bab7-f8bb-e0c37438566a" to="/service-details" className="fda-home-v1-services-arrow-wrapper fda-three w-inline-block">
                                                             <div className="fda-services-black-arrow"><img src="/images/home/698316aecf20e0a251148f08_kontrek-home-one-services-black-arrow-link.svg" loading="lazy" alt="kontrek-home-one-services-black-arrow-link" /></div>
                                                         </Link>
                                                     </div>
                                                     <div data-w-id="64b75267-6b69-a8fb-4807-d46ad2ca7e5e" className="w-layout-hflex fda-home-v1-services-item-details fda-three">
                                                         <div className="fda-home-v1-services-item-text">
-                                                            <div>We deliver modern facade restoration solutions ensuring functional layouts, quality finishes, safety standards, and timely execution.</div>
+                                                            <div>Large-scale integrated townships — phased infrastructure, amenities, roads, utilities, and residential clusters delivered as a unified project.</div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -874,9 +874,9 @@ export default function Home() {
                             <div className="fda-testimonial-card">
                                 <div className="fda-testimonial-image"><img src="/images/common/698316aecf20e0a251148e67_kontrek-testimonial-sarah-carter.webp" loading="eager" alt="" /></div>
                                 <div className="w-layout-vflex fda-testimonial-card-details">
-                                    <div className="fda-text-color-black">—  Sarah Carter, Business owner</div>
+                                    <div className="fda-text-color-black">—  Vikram Reddy, Managing Director, Ira Developers</div>
                                     <div className="fda-textimonial-quote">
-                                        <h2 className="fda-gap-off fda-text-center">“ Honest, transparent, and reliable. No hidden costs, clear communication, and the project was completed ahead of schedule. “</h2>
+                                        <h2 className="fda-gap-off fda-text-center">“ RamTeja delivered our 800-unit tower on time and within budget. Their on-site coordination and quality standards are unlike anything we've seen from a contractor at this scale. ”</h2>
                                     </div>
                                 </div>
                             </div>
@@ -885,9 +885,9 @@ export default function Home() {
                             <div className="fda-testimonial-card">
                                 <div className="fda-testimonial-image"><img src="/images/common/698316aecf20e0a251148f41_kontrek-testimonial-image-two.webp" loading="eager" alt="kontrek-testimonial-image-two" /></div>
                                 <div className="w-layout-vflex fda-testimonial-card-details">
-                                    <div className="fda-text-color-black">—  Ryan James Foster, Operations Director</div>
+                                    <div className="fda-text-color-black">—  Suresh Nair, Project Head, Terminus Group</div>
                                     <div className="fda-textimonial-quote">
-                                        <h2 className="fda-gap-off fda-text-center">“ Trustworthy, clear, and highly efficient. Zero hidden fees, honest coordination, and the build wrapped up earlier than planned. ”</h2>
+                                        <h2 className="fda-gap-off fda-text-center">“ From foundation to handover, the RamTeja team was precise, responsive, and professional. They didn't just build our project — they protected our investment. ”</h2>
                                     </div>
                                 </div>
                             </div>
@@ -896,9 +896,9 @@ export default function Home() {
                             <div className="fda-testimonial-card">
                                 <div className="fda-testimonial-image"><img src="/images/common/698316aecf20e0a251148f40_kontrek-testimonial-image-three.webp" loading="eager" alt="kontrek-testimonial-image-three" /></div>
                                 <div className="w-layout-vflex fda-testimonial-card-details">
-                                    <div className="fda-text-color-black">—  Kevin A. Brown, Project manager</div>
+                                    <div className="fda-text-color-black">—  Priya Anand, VP Projects, e-infra</div>
                                     <div className="fda-textimonial-quote">
-                                        <h2 className="fda-gap-off fda-text-center">“ Professional, dependable, and straightforward. No surprise charges, open updates, and the work finished well before deadline. ”</h2>
+                                        <h2 className="fda-gap-off fda-text-center">“ We've partnered with RamTeja across three projects now. Their ability to manage scale without compromising on finish quality is what keeps us coming back. ”</h2>
                                     </div>
                                 </div>
                             </div>
@@ -925,26 +925,26 @@ export default function Home() {
                         <div className="fda-home-v1-project-heading">
                             <div data-w-id="55d4995f-be11-b9e8-f6dd-a47a4bb76c45" style={{opacity:0}} className="fda-sub-heading-wrapper-inner fda-change-align fda-gap-tiny">
                                 <div className="fda-sub-heading-icon"><img src="/images/common/698316aecf20e0a251148dff_kontrek-sub-heading-left-icon.svg" loading="lazy" alt="" /></div>
-                                <div className="fda-sub-text">Showcase real work</div>
+                                <div className="fda-sub-text">Our Projects</div>
                             </div>
                             <div className="fda-overflow-hidden">
-                                <h2 data-w-id="55d4995f-be11-b9e8-f6dd-a47a4bb76c4a" style={{opacity:0}} className="fda-gap-off fda-mobile-align-center">Trusted Builders Creating Lasting Structures</h2>
+                                <h2 data-w-id="55d4995f-be11-b9e8-f6dd-a47a4bb76c4a" style={{opacity:0}} className="fda-gap-off fda-mobile-align-center">15 Million Sq. Ft. Built Across India</h2>
                             </div>
                         </div>
                         <div className="fda-home-v1-project-paragraph fda-overflow-hidden">
-                            <p data-w-id="535fe4a3-59ed-e7d9-3c32-9c632860a20d" style={{opacity:0}} className="fda-gap-off fda-gap-small fda-landscape-align-center">We deliver reliable, high-quality construction services focused on safety, durability, and timely project completion.</p>
+                            <p data-w-id="535fe4a3-59ed-e7d9-3c32-9c632860a20d" style={{opacity:0}} className="fda-gap-off fda-gap-small fda-landscape-align-center">From landmark residential towers in Hyderabad to large-scale commercial campuses — every project in our portfolio is a testament to precision engineering and disciplined delivery.</p>
                             <div className="fda-overflow-hidden">
                                 <div data-w-id="7c33f696-b8fa-a0b7-ba64-db9d37f7653e" style={{opacity:0}}><Link data-wf--fda-button-v1--variant="base" data-w-id="b2cae229-9343-bb63-3d8d-008342bf0ee6" to="/project" className="fda-button-main w-inline-block">
                                         <div className="fda-button-wrapper">
                                             <div className="fda-button-inner-wrapper fda-1">
                                                 <div className="fda-button-text-wrapper">
-                                                    <div className="fda-button-text">explore projects</div>
+                                                    <div className="fda-button-text">Explore All Projects →</div>
                                                 </div>
                                                 <div className="fda-button-text-arrow-wrapper"><img width="10" height="10" alt="" src="/images/common/698316aecf20e0a251148dea_kontrek-button-arrow.svg" loading="lazy" className="fda-button-text-arrow" /></div>
                                             </div>
                                             <div className="fda-button-inner-wrapper fda-2">
                                                 <div className="fda-button-text-wrapper">
-                                                    <div className="fda-button-text fda-text-color-white">explore projects</div>
+                                                    <div className="fda-button-text fda-text-color-white">Explore All Projects →</div>
                                                 </div>
                                                 <div className="fda-button-text-arrow-wrapper"><img width="10" height="10" alt="" src="/images/common/698316aecf20e0a251148dea_kontrek-button-arrow.svg" loading="lazy" className="fda-invert-white fda-button-text-arrow" /></div>
                                             </div>

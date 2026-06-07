@@ -36,3 +36,7 @@ dist/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Backups and Scratch files
+_backup_original_html/
+scratch/

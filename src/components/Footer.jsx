@@ -8,14 +8,14 @@ export default function Footer() {
           <div className="fda-footer-top-left">
             <div>
               <div data-w-id="a1cce851-072e-f5d4-bf45-f7f2c77dd2f0" className="fda-footer-heading fda-overflow-hidden">
-                <h3 className="fda-gap-off fda-text-color-white fda-mobile-text-align-center">Building Strong Foundations for Residential and Commercial Projects</h3>
+                <h3 className="fda-gap-off fda-text-color-white fda-mobile-text-align-center">Have a project in mind?</h3>
               </div>
               <div data-w-id="32581804-50c7-5bbd-7f29-f86803add327" className="fda-footer-get-started-wrapper fda-overflow-hidden">
-                <Link data-w-id="a8416e24-bcd5-1a27-2990-5e430ccf61ae" to="/form" className="fda-button-main fda-border-transparent w-inline-block">
+                <Link data-w-id="a8416e24-bcd5-1a27-2990-5e430ccf61ae" to="/contact" className="fda-button-main fda-border-transparent w-inline-block">
                   <div className="fda-button-wrapper">
                     <div className="fda-button-inner-wrapper fda-1">
                       <div className="fda-button-text-wrapper">
-                        <div className="fda-button-text">get started today</div>
+                        <div className="fda-button-text">Contact Us →</div>
                       </div>
                       <div className="fda-button-text-arrow-wrapper">
                         <img width="10" height="10" alt="" src="/images/common/698316aecf20e0a251148dea_kontrek-button-arrow.svg" loading="lazy" className="fda-button-text-arrow" />
@@ -23,7 +23,7 @@ export default function Footer() {
                     </div>
                     <div className="fda-button-inner-wrapper fda-2">
                       <div className="fda-button-text-wrapper">
-                        <div className="fda-button-text fda-text-color-golden">get started today</div>
+                        <div className="fda-button-text fda-text-color-golden">Contact Us →</div>
                       </div>
                       <div className="fda-button-text-arrow-wrapper">
                         <img width="10" height="10" alt="" src="/images/common/698316aecf20e0a251148e47_kontrek-button-arrow-golden.svg" loading="lazy" className="fda-button-text-arrow" />
@@ -90,7 +90,7 @@ export default function Footer() {
         </div>
         <div className="fda-footer-bottom">
           <div text="big-text" className="fda-expertise-text-wrapper">
-            <div className="fda-medium-text">kontrek</div>
+            <div className="fda-medium-text">RamTeja Constructions</div>
           </div>
           <div className="fda-footer-bottom-right">
             <div className="fda-footer-bottom-right-inner fda-overflow-hidden"></div>
