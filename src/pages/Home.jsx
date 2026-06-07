@@ -218,9 +218,9 @@ export default function Home() {
                     </div>
                     <div className="fda-home-v1-quality-right">
                         <div data-w-id="a970eca3-315d-f1bc-9662-352a8f467ef7" className="fda-home-v1-quality-image-wrapper">
-                            <div style={{opacity:0}} className="fda-home-v1-quality-image-one"><img src="/images/home/698316aecf20e0a251148efe_kontrek-home-one-construction-image-four.webp" loading="lazy" alt="kontrek-home-one-construction-image-four" /></div>
-                            <div style={{opacity:0}} className="fda-home-v1-quality-image-two"><img src="/images/home/698316aecf20e0a251148ef9_kontrek-home-one-construction-image-two.webp" loading="lazy" alt="kontrek-home-one-construction-image-two" /></div>
-                            <div className="fda-home-v1-quality-image-three fda-overflow-hidden"><img src="/images/home/698316aecf20e0a251148ef8_kontrek-home-one-construction-image-one.webp" loading="lazy" alt="kontrek-home-one-construction-image-one" className="fda-image-effect" />
+                            <div style={{opacity:0}} className="fda-home-v1-quality-image-one"><img src="/images/home/residential.png" loading="lazy" alt="residential" /></div>
+                            <div style={{opacity:0}} className="fda-home-v1-quality-image-two"><img src="/images/home/commercial.png" loading="lazy" alt="commercial" /></div>
+                            <div className="fda-home-v1-quality-image-three fda-overflow-hidden"><img src="/images/home/turnkey.png" loading="lazy" alt="turnkey" className="fda-image-effect" />
                                 <div data-w-id="52709feb-03ee-aa06-aeac-99f253a673e1" className="fda-main-overlay">
                                     <div className="fda-inside-overlay"></div>
                                     <div className="fda-outside-overlay"></div>
