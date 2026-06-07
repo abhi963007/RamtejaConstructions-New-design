@@ -2661,12 +2661,17 @@ blockquote {
   border-bottom: .0625rem solid #0000;
 }
 
+.fda-left-gap {
+  margin-left: 5rem;
+}
+
 .fda-navmenu-wrapper {
   grid-column-gap: 3.75rem;
   grid-row-gap: 3.75rem;
   justify-content: space-between;
   align-items: center;
   display: flex;
+  margin-left: 6.5rem;
 }
 
 .fda-nav-description-v2 {
@@ -9818,6 +9823,7 @@ blockquote {
 
   .fda-padding-off.fda-left-gap {
     padding-left: var(--_gap---gutter-space);
+    margin-left: 0;
   }
 
   .fda-navbar-main {
@@ -9856,6 +9862,7 @@ blockquote {
     justify-content: space-between;
     align-items: flex-start;
     margin-top: .5rem;
+    margin-left: 0;
   }
 
   .fda-nav-description-v2 {
