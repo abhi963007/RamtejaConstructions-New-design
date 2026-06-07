@@ -39,7 +39,7 @@ export default function Home() {
                                     <div className="fda-text-style-h6 fda-text-color-white">Craftsmanship</div>
                                 </div>
                                 <div text="contact-big-text" className="fda-home-v1-hero-content-big-text fda-overflow-hidden">
-                                    <div text="contact-main-text" className="fda-big-text fda-text-color-white fda-text-align-center">Industrial</div>
+                                    <div text="contact-main-text" className="fda-big-text fda-text-color-white fda-text-align-center">CONSTRUCTION</div>
                                 </div>
                             </div>
                         </div>
