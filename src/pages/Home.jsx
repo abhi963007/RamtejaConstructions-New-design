@@ -12,11 +12,8 @@ export default function Home() {
                 <div className="w-layout-blockcontainer fda-container-medium fda-full-height w-container">
                     <div className="w-layout-vflex fda-home-v1-hero-content-main">
                         <div className="w-layout-hflex fda-home-v1-hero-content-top">
-                            <div className="fda-home-v1-hero-content-left">
-                                <div data-w-id="eaeaad84-c5ca-b25c-1566-bcc3de99a8b7" style={{opacity:0}} className="fda-text-color-white fda-gap-small fda-mobile-text-center">India's Fastest Growing Integrated Development Partner</div>
-                            </div>
                             <div className="fda-home-v1-hero-content-right">
-                                <h1 data-w-id="e0fed5d8-2593-79ad-cc70-1b5d400567b1" style={{opacity:0}} className="fda-gap-off fda-text-color-white fda-mobile-text-center"><span className="fda-hero-banner-yellow-icon">        </span>We Don't Just Build Structures. We Build Cities.</h1>
+                                <h1 data-w-id="e0fed5d8-2593-79ad-cc70-1b5d400567b1" style={{opacity:0}} className="fda-gap-off fda-text-color-white fda-mobile-text-center">India's Fastest Growing Integrated Development Partner</h1>
                             </div>
                         </div>
                         <div className="w-layout-hflex fda-home-v1-hero-content-bottom">

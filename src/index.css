@@ -7373,7 +7373,9 @@ blockquote {
 }
 
 .fda-home-v1-hero-content-right {
-  flex: 0 30%;
+  flex: 0 70%;
+  text-align: right;
+  margin-left: auto;
 }
 
 .fda-home-v1-hero-content-main {
