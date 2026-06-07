@@ -208,7 +208,7 @@ export default function Home() {
                             </div>
                         </div>
                         <div data-w-id="9ca6a5e4-c078-61c4-5634-b25900769c95" className="fda-quality-standards-image fda-position-relative">
-                            <div className="fda-position-relative fda-overflow-hidden fda-tab-full-height"><img src="/images/home/698316aecf20e0a251148efa_kontrek-home-one-expert-construction.webp" loading="lazy" alt="kontrek-home-one-expert-construction" className="fda-image-effect" />
+                            <div className="fda-position-relative fda-overflow-hidden fda-tab-full-height"><img src="/images/home/about-delivery.png" loading="lazy" alt="about-delivery" className="fda-image-effect" />
                                 <div data-w-id="52709feb-03ee-aa06-aeac-99f253a673e1" className="fda-main-overlay">
                                     <div className="fda-inside-overlay"></div>
                                     <div className="fda-outside-overlay"></div>
@@ -583,7 +583,7 @@ export default function Home() {
                                     <div className="fda-text-color-white">Successfully completed residential, commercial, and industrial construction projects.</div>
                                 </div>
                                 <div className="fda-complete-project-box-v2-triangle fda-tab-display-none"><img src="/images/home/698316aecf20e0a251148f06_kontrek-home-one-project-complete-triangle.svg" loading="lazy" alt="" /></div>
-                            </div><img src="/images/home/698316aecf20e0a251148f0b_kontrek-home-one-big-building-construction.webp" loading="lazy" sizes="100vw" srcset="/images/home/698316aecf20e0a251148f0b_kontrek-home-one-big-building-construction-p-500.webp 500w, /images/home/698316aecf20e0a251148f0b_kontrek-home-one-big-building-construction-p-800.webp 800w, /images/home/698316aecf20e0a251148f0b_kontrek-home-one-big-building-construction-p-1080.webp 1080w, /images/home/698316aecf20e0a251148f0b_kontrek-home-one-big-building-construction.webp 1130w" alt="kontrek-home-one-big-building-construction" />
+                            </div><img src="/images/home/about-handover.png" loading="lazy" alt="about-handover" />
                         </div>
                     </div>
                     <div className="w-layout-hflex fda-home-v1-services-right">
@@ -864,7 +864,7 @@ export default function Home() {
                             <div data-w-id="b88c1092-4e0e-4601-541f-6dea1d188943" className="fda-full-height w-dyn-list">
                                 <div role="list" className="fda-full-height w-dyn-items">
                                     <div role="listitem" className="fda-full-height w-dyn-item"><Link to="/project-details" className="fda-home-v1-project-item w-inline-block">
-                                            <div className="fda-position-relative fda-overflow-hidden fda-full-height"><img src="/images/common/698316aecf20e0a251148fdb_kontrek-project-details-Skyline-tower-small.webp" loading="lazy" alt="" sizes="100vw" srcset="/images/common/698316aecf20e0a251148fdb_kontrek-project-details-Skyline-tower-small-p-500.webp 500w, /images/common/698316aecf20e0a251148fdb_kontrek-project-details-Skyline-tower-small-p-800.webp 800w, /images/common/698316aecf20e0a251148fdb_kontrek-project-details-Skyline-tower-small-p-1080.webp 1080w, /images/common/698316aecf20e0a251148fdb_kontrek-project-details-Skyline-tower-small.webp 1570w" className="fda-image-effect" />
+                                            <div className="fda-position-relative fda-overflow-hidden fda-full-height"><img src="/images/home/project-skyline.png" loading="lazy" alt="Skyline Tower" className="fda-image-effect" />
                                                 <div data-w-id="52709feb-03ee-aa06-aeac-99f253a673e1" className="fda-main-overlay">
                                                     <div className="fda-inside-overlay"></div>
                                                     <div className="fda-outside-overlay"></div>
@@ -900,7 +900,7 @@ export default function Home() {
                             <div data-w-id="4f407a5a-6ce5-16ef-8311-9160eaad5ea6" className="fda-full-height w-dyn-list">
                                 <div role="list" className="fda-full-height w-dyn-items">
                                     <div role="listitem" className="fda-full-height w-dyn-item"><Link to="/project-details" className="fda-home-v1-project-item w-inline-block">
-                                            <div className="fda-position-relative fda-overflow-hidden fda-full-height"><img src="/images/home/698316aecf20e0a251148fda_kontrek-project-details-Office-building-small.webp" loading="lazy" alt="" sizes="100vw" srcset="/images/home/698316aecf20e0a251148fda_kontrek-project-details-Office-building-small-p-500.webp 500w, /images/home/698316aecf20e0a251148fda_kontrek-project-details-Office-building-small-p-800.webp 800w, /images/home/698316aecf20e0a251148fda_kontrek-project-details-Office-building-small-p-1080.webp 1080w, /images/home/698316aecf20e0a251148fda_kontrek-project-details-Office-building-small.webp 1570w" className="fda-image-effect" />
+                                            <div className="fda-position-relative fda-overflow-hidden fda-full-height"><img src="/images/home/project-office.png" loading="lazy" alt="Office Building" className="fda-image-effect" />
                                                 <div data-w-id="52709feb-03ee-aa06-aeac-99f253a673e1" className="fda-main-overlay">
                                                     <div className="fda-inside-overlay"></div>
                                                     <div className="fda-outside-overlay"></div>
@@ -919,7 +919,7 @@ export default function Home() {
                         <div data-delay="4000" data-animation="slide" className="fda-mobile-slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
                             <div className="w-slider-mask">
                                 <div className="w-slide">
-                                    <div className="fda-home-v1-project-item fda-one fda-slider-item-height"><img src="/images/home/698316aecf20e0a251148ef5_kontrek-home-two-work-image-three.webp" loading="lazy" sizes="100vw" srcset="/images/home/698316aecf20e0a251148ef5_kontrek-home-two-work-image-three-p-500.webp 500w, /images/home/698316aecf20e0a251148ef5_kontrek-home-two-work-image-three-p-800.webp 800w, /images/home/698316aecf20e0a251148ef5_kontrek-home-two-work-image-three.webp 1046w" alt="kontrek-home-two-work-image-three" />
+                                    <div className="fda-home-v1-project-item fda-one fda-slider-item-height"><img src="/images/home/project-skyline.png" loading="lazy" alt="Skyline Tower" />
                                         <div className="fda-home-v1-project-item-triangle"><img src="/images/home/698316aecf20e0a251148eed_kontrek-why-choose-us-image-triangle.svg" loading="lazy" alt="" /></div>
                                         <div className="fda-main-overlay">
                                             <div className="fda-inside-overlay"></div>
@@ -937,7 +937,7 @@ export default function Home() {
                                     </div>
                                 </div>
                                 <div className="w-slide">
-                                    <div className="fda-home-v1-project-item fda-three fda-slider-item-height"><img src="/images/home/698316aecf20e0a251148f00_kontrek-home-one-reliable-construction.webp" loading="lazy" sizes="100vw" srcset="/images/home/698316aecf20e0a251148f00_kontrek-home-one-reliable-construction-p-500.webp 500w, /images/home/698316aecf20e0a251148f00_kontrek-home-one-reliable-construction-p-800.webp 800w, /images/home/698316aecf20e0a251148f00_kontrek-home-one-reliable-construction-p-1080.webp 1080w, /images/home/698316aecf20e0a251148f00_kontrek-home-one-reliable-construction.webp 1570w" alt="" />
+                                    <div className="fda-home-v1-project-item fda-three fda-slider-item-height"><img src="/images/home/project-office.png" loading="lazy" alt="Office Building" />
                                         <div className="fda-home-v1-project-item-triangle"><img src="/images/home/698316aecf20e0a251148eed_kontrek-why-choose-us-image-triangle.svg" loading="lazy" alt="" /></div>
                                         <div className="fda-main-overlay">
                                             <div className="fda-inside-overlay"></div>
