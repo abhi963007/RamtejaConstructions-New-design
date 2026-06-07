@@ -32,9 +32,6 @@ dist/
 # Local env files
 .env*.local
 
-# Backup and scratch folders (requested by user)
-_backup_original_html/
-scratch/
 
 # OS metadata
 .DS_Store
