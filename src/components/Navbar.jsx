@@ -49,6 +49,9 @@ export default function Navbar({ theme = 'dark' }) {
                   <Link to="/service" className={getLinkClass('/service')}>
                     <div className="fda-menu-text fda-text-color-white fda-change-text-size fda-change-text-color">Service</div>
                   </Link>
+                  <Link to="/project" className={getLinkClass('/project')}>
+                    <div className="fda-menu-text fda-text-color-white fda-change-text-size fda-change-text-color">Project</div>
+                  </Link>
                   <Link to="/contact" className={getLinkClass('/contact')}>
                     <div className="fda-menu-text fda-text-color-white fda-change-text-size fda-change-text-color">Contact</div>
                   </Link>
