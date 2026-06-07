@@ -7378,6 +7378,11 @@ blockquote {
   margin-left: auto;
 }
 
+.fda-hero-h1 {
+  font-size: 3rem;
+  line-height: 1.15;
+}
+
 .fda-home-v1-hero-content-main {
   justify-content: space-between;
   align-items: stretch;
@@ -11333,6 +11338,10 @@ blockquote {
     text-align: center;
   }
 
+  .fda-hero-h1 {
+    font-size: 2.125rem;
+  }
+
   .fda-home-v1-hero-content-main {
     grid-column-gap: 1.25rem;
     grid-row-gap: 1.25rem;
@@ -12772,6 +12781,10 @@ blockquote {
   .fda-home-v1-hero-content-right {
     flex: 1;
     order: -9999;
+  }
+
+  .fda-hero-h1 {
+    font-size: 1.75rem;
   }
 
   .fda-home-v1-hero-content-bottom-right {

@@ -13,7 +13,9 @@ export default function Home() {
                     <div className="w-layout-vflex fda-home-v1-hero-content-main">
                         <div className="w-layout-hflex fda-home-v1-hero-content-top">
                             <div className="fda-home-v1-hero-content-right">
-                                <h1 className="fda-gap-off fda-text-color-white fda-mobile-text-center">India's Fastest Growing Integrated Development Partner</h1>
+                                <h1 className="fda-hero-h1 fda-gap-off fda-text-color-white fda-mobile-text-center">
+                                    India's Fastest <br />Growing Integrated Development Partner
+                                </h1>
                             </div>
                         </div>
                         <div className="w-layout-hflex fda-home-v1-hero-content-bottom">
