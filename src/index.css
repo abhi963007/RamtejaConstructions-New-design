@@ -2047,7 +2047,7 @@ textarea.w-input, textarea.w-select {
 }
 
 :root {
-  --_font-family---secondary-font: "Inter Tight", sans-serif;
+  --_font-family---secondary-font: "Montserrat", sans-serif;
   --charcoal-ash: #595959;
   --_font-details---font-size--body-text: .9375rem;
   --_font-details---font-line-height--body-text: 162.5%;
@@ -2288,7 +2288,7 @@ body {
   --_font-details---font-letter-spacing--body: -.0375rem;
   --_font-details---font-letter-spacing--menu: .08rem;
   --_font-details---font-weight--bold: 700;
-  --_font-family---secondary-font: "Inter Tight", sans-serif;
+  --_font-family---secondary-font: "Montserrat", sans-serif;
   --_font-family---primary-font: "Bebas Neue", sans-serif;
   --_container---container-medium: 101.875rem;
   --_container---container-small: 82.5rem;
@@ -8748,7 +8748,7 @@ blockquote {
     --_font-details---font-letter-spacing--body: -.04rem;
     --_font-details---font-letter-spacing--menu: .08rem;
     --_font-details---font-weight--bold: 700;
-    --_font-family---secondary-font: "Inter Tight", sans-serif;
+    --_font-family---secondary-font: "Montserrat", sans-serif;
     --_font-family---primary-font: "Bebas Neue", sans-serif;
     --_gap---gutter-space: .9375rem;
     --_gap---section-gap-big: 8.75rem;
@@ -9712,7 +9712,7 @@ blockquote {
     --_font-details---font-letter-spacing--body: -.0375rem;
     --_font-details---font-letter-spacing--menu: .08rem;
     --_font-details---font-weight--bold: 700;
-    --_font-family---secondary-font: "Inter Tight", sans-serif;
+    --_font-family---secondary-font: "Montserrat", sans-serif;
     --_font-family---primary-font: "Bebas Neue", sans-serif;
     --charcoal-ash: #595959;
     --midnight-navy: #0a0f15;
@@ -11646,7 +11646,7 @@ blockquote {
     --_gap---h1-gap: 1.25rem;
     --_gap---gap-medium: 1.5625rem;
     --_gap---h2-gap: .9375rem;
-    --_font-family---secondary-font: "Inter Tight", sans-serif;
+    --_font-family---secondary-font: "Montserrat", sans-serif;
     --_font-family---primary-font: "Bebas Neue", sans-serif;
     --charcoal-ash: #595959;
     --midnight-navy: #0a0f15;
@@ -13040,7 +13040,7 @@ blockquote {
     --_gap---h1-gap: 1.25rem;
     --_gap---gap-medium: 1.5625rem;
     --_gap---h2-gap: .9375rem;
-    --_font-family---secondary-font: "Inter Tight", sans-serif;
+    --_font-family---secondary-font: "Montserrat", sans-serif;
     --_font-family---primary-font: "Bebas Neue", sans-serif;
     --charcoal-ash: #595959;
     --midnight-navy: #0a0f15;
